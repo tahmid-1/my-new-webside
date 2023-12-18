@@ -10,9 +10,109 @@ h1{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+   
 }
+
 .c234 img{
 
+width: 100%;
+}
+.ban{
+    background-image:url(top-banner.png) ;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0%;
+}
+.ancore{
+    text-decoration: none;
+    font-size: 20px;
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aqua;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(aqua white);
 
+    
+    
+}
+.ancore:hover{
+    background-color: black;
+}
+
+
+
+
+
+.ban2{
+    background-image:url(dream-bg.png);
+    background-repeat: no-repeat;
+}
+.a2{
+    height: 100%;
     width: 100%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    margin: 0%;
+    ;
+}
+.j1::first-letter{
+    font-size: 40px;
+    color: gray;
+    font-style: italic;
+}
+.v2{
+    color: cadetblue;
+}
+.j1{
+    text-shadow: 5px 5px 5px black;
+}
+
+#s1{
+    box-shadow: 10px 10px 10px black;
+    height: 300px;
+    border-left:solid 7px ;
+    border-image: linear-gradient( orange,red);
+    border-image-slice: 1;
+}
+
+#s2{
+    box-shadow: 10px 10px 10px black;
+    height: 300px;
+    border-left: solid 7px;
+    
+    border-image: linear-gradient( blue,green);
+    border-image-slice: 1;
+}
+#q1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aquamarine;
+}
+#q2{
+    font-style: italic;
+    color:silver;
+  
+}
+#z2{
+    color: green;
+}
+#x5{
+    color: silver;
+}
+#xc{
+    color: green;
+}
+#xv{
+    color: green;
+}
+#xn{
+    color: silver;
+}
+#xz{
+    color: silver;
 }
